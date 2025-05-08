@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200" fill="none">
+  <style>
+    .title-text { font: bold 72px 'Arial', sans-serif; }
+    .blue { fill: #57b9f8; }
+    .yellow { fill: #f8ce57; }
+    .headphones { fill: #2a2a2a; }
+  </style>
+  <!-- Stylized headphones -->
+  <path class="headphones" d="M250,50 C200,50 160,90 160,140 L160,160 C160,170 170,180 180,180 L190,180 C200,180 210,170 210,160 L210,140 C210,130 200,120 190,120 L180,120 L180,100 C180,80 210,60 250,60 C290,60 320,80 320,100 L320,120 L310,120 C300,120 290,130 290,140 L290,160 C290,170 300,180 310,180 L320,180 C330,180 340,170 340,160 L340,140 C340,90 300,50 250,50 Z"/>
+  <!-- Sing7 text with shadow effect -->
+  <text x="100" y="130" class="title-text blue" style="filter: drop-shadow(3px 3px 2px rgba(0,0,0,0.3));">Sing</text>
+  <text x="290" y="130" class="title-text yellow" style="filter: drop-shadow(3px 3px 2px rgba(0,0,0,0.3));">7</text>
+</svg> 

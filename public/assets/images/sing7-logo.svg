@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200" fill="none">
+  <style>
+    .title-text { font: bold 72px sans-serif; }
+    .blue { fill: #57b9f8; }
+    .yellow { fill: #f8ce57; }
+  </style>
+  <text x="100" y="120" class="title-text blue">Sing</text>
+  <text x="280" y="120" class="title-text yellow">7</text>
+</svg> 

@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+    environment:
+      - NODE_ENV=development
+      - NEXT_PUBLIC_INFURA_PROJECT_ID=${NEXT_PUBLIC_INFURA_PROJECT_ID}
+      - NEXT_PUBLIC_INFURA_PROJECT_SECRET=${NEXT_PUBLIC_INFURA_PROJECT_SECRET}
+      - NEXT_PUBLIC_INFURA_IPFS_ENDPOINT=${NEXT_PUBLIC_INFURA_IPFS_ENDPOINT}
+    command: npm run dev
+    stdin_open: true
+    restart: always 

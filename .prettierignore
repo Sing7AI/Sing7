@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+public
+build
+coverage
+dist
+.env*
+*.md 
