@@ -1,0 +1,28 @@
+name: Sync Repository
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      
+      - name: Set commit message
+        run: |
+          echo "COMMIT_MESSAGE=Sing7 V1.01" >> $GITHUB_ENV
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "nxkaaowpif11@hotmail.com"
+          git config --local user.name "Sing7"
+          git add .
+          git commit -m "${{ env.COMMIT_MESSAGE }}" || echo "No changes to commit"
+          git push 
