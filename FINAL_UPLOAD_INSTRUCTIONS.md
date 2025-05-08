@@ -2,7 +2,6 @@
 
 ## Preparation Completed
 - ✅ Project code organized and documented in English
-- ✅ Logo created and added to README
 - ✅ Git configuration set with project-specific settings
 - ✅ SSH key generated at `~/.ssh/id_ed25519_sing7ai`
 - ✅ Git bundle created: `Sing7_complete_final.bundle`
@@ -74,7 +73,7 @@ Note: This method will not preserve Git history.
 ### 5. Verify Repository Content
 
 After uploading:
-1. Verify the README.md displays correctly with the logo
+1. Verify the README.md displays correctly
 2. Check that all files are present
 3. Make sure all documentation is in English
 
@@ -100,6 +99,5 @@ After uploading:
 
 - **Sing7_complete_final.bundle**: Complete Git bundle with all history and commits
 - **Sing7_final.tar.gz**: Archive containing all project files (excludes .git, node_modules)
-- **README.md**: Main project documentation with logo
-- **public/assets/branding/logo.svg**: Project logo
+- **README.md**: Main project documentation
 - **GITHUB_UPLOAD_SUCCESS.md**: Instructions for completing the GitHub setup 

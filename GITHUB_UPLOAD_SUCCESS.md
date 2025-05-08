@@ -3,7 +3,6 @@
 ## Setup Completed
 - ✅ Local repository initialized with initial commit
 - ✅ Project files organized and committed
-- ✅ Logo added to the project
 - ✅ Documentation updated and English version created
 - ✅ Bundle file created: `sing7_updated.bundle`
 - ✅ Archive file created: `Sing7_updated.tar.gz`
@@ -46,7 +45,6 @@ If the bundle approach doesn't work, you can manually upload the files:
 ### 4. Verify Repository Content
 
 After upload, verify that all files are correctly displayed in the repository:
-- The logo should appear in the README
 - All code files should be present
 - Documentation should be in English
 
@@ -61,8 +59,7 @@ If you want to showcase your project:
 
 ## Important Files
 
-- **README.md**: Main project documentation with logo
+- **README.md**: Main project documentation
 - **README_ENGLISH.md**: English version of setup documentation
-- **public/assets/branding/logo.svg**: Project logo
 - **sing7_updated.bundle**: Git bundle with full history
 - **Sing7_updated.tar.gz**: Project archive with all files 
