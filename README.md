@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="public/assets/branding/logo.svg" alt="Sing7 Logo" width="200" height="200" />
   <h1>Sing7 - Web3 Music Creation Platform</h1>
   
   <p>A next-generation web-based music creation and NFT platform</p>
