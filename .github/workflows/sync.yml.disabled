@@ -1,11 +1,9 @@
-name: Sync Repository
+name: Sync Repository (Disabled)
+
+# This workflow is currently disabled. To re-enable it, rename this file back to sync.yml
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
+  workflow_dispatch:  # Only manual trigger now
 
 jobs:
   build:
