@@ -21,8 +21,9 @@ jobs:
       
       - name: Commit and push
         run: |
-          git config --local user.email "your-github-email@example.com"
+          git config --local user.email "nxkaaowpif11@hotmail.com"
           git config --local user.name "Sing7"
           git add .
           git commit -m "${{ env.COMMIT_MESSAGE }}" || echo "No changes to commit"
-          git push 
+          git push || echo "Push failed, but workflow continues"
+          exit 0 
