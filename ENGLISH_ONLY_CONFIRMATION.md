@@ -2,7 +2,7 @@
 
 This file confirms that all documentation, comments, and file names in this project are in English only. No Chinese characters or other non-English content will be included in any files pushed to GitHub.
 
-## Verification Completed
+## Verification Completed ✅
 
 The following checks have been performed:
 - All source code files are in English

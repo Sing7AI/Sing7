@@ -1,6 +1,6 @@
 # 🔧 GitHub Actions Resolution
 
-## Issue Description
+## Issue Description 🔍
 
 The repository was experiencing GitHub Actions workflow failures with the error message:
 

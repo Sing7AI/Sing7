@@ -1,6 +1,6 @@
 # 📝 Final GitHub Upload Instructions for Sing7
 
-## Important Note About SSH Authentication
+## Important Note About SSH Authentication ⚠️
 
 We've discovered that all SSH keys on this system are associated with the CtoryAI GitHub account, not the Sing7AI account. Therefore, direct SSH push to the Sing7AI/Sing7 repository won't work from this machine.
 

@@ -2,7 +2,7 @@
 
 We've prepared a tarball containing everything needed to upload the Sing7 project to GitHub. Follow these simple steps to complete the upload.
 
-## Step 1: Extract the Tarball
+## Step 1: Extract the Tarball 📋
 
 ```bash
 tar -xzvf Sing7_Github_Upload.tar.gz

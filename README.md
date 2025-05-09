@@ -818,21 +818,21 @@ Sing7 is [MIT licensed](https://opensource.org/licenses/MIT).
 
 Sing7 is continuously evolving with new features and improvements planned for future releases.
 
-### Short-term Goals (Q2-Q3 2023)
+### Short-term Goals (Q2-Q3 2025)
 
 - **Audio Effects System**: Advanced effect chain with customizable parameters
 - **Sample Library**: Expanded library of royalty-free sounds and instruments
 - **Collaboration Features**: Real-time collaboration for multiple users
 - **Mobile App Beta**: First version of companion mobile application
 
-### Mid-term Goals (Q4 2023 - Q1 2024)
+### Mid-term Goals (Q4 2025 - Q1 2026)
 
 - **AI-Assisted Composition**: Machine learning tools for creative suggestions
 - **Advanced Mastering Tools**: Professional-grade output processing
 - **Cross-Platform DAW Integration**: Export to industry-standard formats
 - **Enhanced Smart Contract System**: More flexible royalty distribution options
 
-### Long-term Vision (2024+)
+### Long-term Vision (2026+)
 
 - **Decentralized Audio Hosting**: Fully distributed audio hosting solution
 - **Sing7 Governance Token**: Community governance of platform decisions
@@ -840,12 +840,17 @@ Sing7 is continuously evolving with new features and improvements planned for fu
 - **Music NFT Marketplace Evolution**: Secondary market features and analytics
 
 ```
- Q2 2023 -----+------ Q4 2023 ------+------ Q2 2024 ------+------ Q4 2024
+ Q2 2025 -----+------ Q4 2025 ------+------ Q2 2026 ------+------ Q4 2026
    |          |          |          |          |          |          |
    |          |          |          |          |          |          |
    v          v          v          v          v          v          v
 [Effects]  [Samples]  [Collab]  [AI Tools]  [DAW Int.]  [Gov Token]  [3D Studio]
 ```
+
+## Social Links
+
+- **Twitter**: [https://x.com/Sing_7_](https://x.com/Sing_7_)
+- **Website**: [https://sings7.xyz](https://sings7.xyz)
 
 ## Community and Contributing
 

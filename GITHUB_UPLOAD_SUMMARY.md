@@ -4,7 +4,7 @@
 
 The code has been successfully uploaded to GitHub using SSH authentication with an exclusive SSH key for the Sing7AI account.
 
-## Actions Completed
+## Actions Completed 📋
 
 1. **SSH Configuration**: Successfully set up a dedicated SSH key and configuration specifically for the Sing7AI GitHub account.
 2. **Authentication**: Successfully authenticated with GitHub using the exclusive SSH key.

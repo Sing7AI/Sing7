@@ -2,7 +2,7 @@
 
 This guide explains how to properly display the Sing7 logo in the README.md file.
 
-## Method 1: Upload to GitHub Repository
+## Method 1: Upload to GitHub Repository 📤
 
 1. Create the directory structure (if it doesn't exist):
    ```bash
