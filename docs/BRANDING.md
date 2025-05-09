@@ -1,4 +1,4 @@
-# Sing7 Branding Guide
+# 🎨 Sing7 Branding Guide
 
 This document outlines the branding guidelines for the Sing7 platform to ensure a consistent visual identity across all project materials.
 

@@ -1,4 +1,4 @@
-# GitHub Actions Resolution
+# 🔧 GitHub Actions Resolution
 
 ## Issue Description
 

@@ -1,4 +1,4 @@
-# Sing7AI Final GitHub Upload Guide
+# 📊 Sing7AI Final GitHub Upload Guide
 
 We've successfully created an exclusive SSH key setup that will **only** connect to the Sing7AI GitHub account and won't be affected by other GitHub accounts on this system.
 

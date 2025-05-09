@@ -1,4 +1,4 @@
-# Final Upload Instructions for Sing7
+# 🔼 Final Upload Instructions for Sing7
 
 We've prepared a tarball containing everything needed to upload the Sing7 project to GitHub. Follow these simple steps to complete the upload.
 

@@ -1,4 +1,4 @@
-# Final GitHub Upload Instructions for Sing7
+# 📝 Final GitHub Upload Instructions for Sing7
 
 ## Important Note About SSH Authentication
 

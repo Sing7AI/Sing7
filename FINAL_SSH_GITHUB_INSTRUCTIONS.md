@@ -1,4 +1,4 @@
-# Sing7 GitHub Setup - Final Instructions
+# 🛠️ Sing7 GitHub Setup - Final Instructions
 
 We've identified that the previous SSH key was associated with a different GitHub account. We've created a new SSH key specifically for the Sing7AI account.
 

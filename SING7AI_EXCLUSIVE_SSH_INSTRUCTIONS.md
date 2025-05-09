@@ -1,4 +1,4 @@
-# Sing7AI Exclusive SSH Key Setup Instructions
+# 🔐 Sing7AI Exclusive SSH Key Setup Instructions
 
 We've created an exclusive SSH key that will **only** be used for the Sing7AI GitHub account and won't conflict with any other GitHub accounts (especially CtoryAI).
 

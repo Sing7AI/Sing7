@@ -1,4 +1,4 @@
-# English-Only Project Confirmation
+# 🌐 English-Only Project Confirmation
 
 This file confirms that all documentation, comments, and file names in this project are in English only. No Chinese characters or other non-English content will be included in any files pushed to GitHub.
 

@@ -1,3 +1,4 @@
+// 🚀 Next.js configuration for Sing7 V1.02
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,

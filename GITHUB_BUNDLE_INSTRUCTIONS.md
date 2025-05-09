@@ -1,4 +1,4 @@
-# GitHub Upload Instructions Using Bundle Method
+# 📦 GitHub Upload Instructions Using Bundle Method
 
 Since we're experiencing issues with direct GitHub access, we'll use the bundle method to upload the code to GitHub. This method doesn't require direct SSH access from this machine.
 

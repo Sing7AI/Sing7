@@ -1,4 +1,4 @@
-# Sing7 Logo Display Guide
+# 🖼️ Sing7 Logo Usage Guide
 
 This guide explains how to properly display the Sing7 logo in the README.md file.
 

@@ -1,4 +1,4 @@
-# GitHub Upload Summary
+# 🚀 GitHub Upload Summary
 
 ## Upload Status: ✅ SUCCESSFUL
 

@@ -1,3 +1,5 @@
+# ✨ Sing7
+
 <div align="center">
   <h1>Sing7 - Web3 Music Creation Platform</h1>
   
