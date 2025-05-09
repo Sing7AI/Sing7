@@ -50,7 +50,7 @@ If Git access is not available:
 ## Repository Configuration
 The repository should have these configurations:
 - Username: Sing7
-- Email: nxkaaowpif11@hotmail.com
+- Email: your-github-email@example.com
 
 ## SSH Key Information
 Project-specific SSH key is available at:

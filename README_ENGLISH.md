@@ -33,7 +33,7 @@ Project-specific SSH key has been generated:
 - **Private key location**: `~/.ssh/id_ed25519_sing7ai`
 - **Public key**:
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFIgaxKmEopbzCi1bjkDcI3e4DI7hPu2xL7b1uIvXfo nxkaaowpif11@hotmail.com
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFIgaxKmEopbzCi1bjkDcI3e4DI7hPu2xL7b1uIvXfo your-github-email@example.com
 ```
 
 ### 2. SSH Configuration
@@ -51,7 +51,7 @@ This configuration allows you to use a specific SSH key when connecting to the S
 
 ### 3. Adding SSH Key to GitHub
 
-1. Log in to GitHub with your account (nxkaaowpif11@hotmail.com)
+1. Log in to GitHub with your account (your-github-email@example.com)
 2. Navigate to Settings (click on your avatar in the top right and select "Settings")
 3. Select "SSH and GPG keys" from the sidebar
 4. Click "New SSH key"

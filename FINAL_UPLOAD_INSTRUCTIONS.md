@@ -11,7 +11,7 @@
 
 ### 1. Create the Repository (if not already done)
 
-1. Log in to GitHub with your account (nxkaaowpif11@hotmail.com)
+1. Log in to GitHub with your account (your-github-email@example.com)
 2. Create the Sing7AI organization if it doesn't exist:
    - Click your profile picture → Settings → Organizations → New organization
    - Choose the free plan
@@ -34,7 +34,7 @@
 4. Key type: "Authentication Key"
 5. Paste the SSH public key content:
    ```
-   ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFIgaxKmEopbzCi1bjkDcI3e4DI7hPu2xL7b1uIvXfo nxkaaowpif11@hotmail.com
+   ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFIgaxKmEopbzCi1bjkDcI3e4DI7hPu2xL7b1uIvXfo your-github-email@example.com
    ```
 6. Click "Add SSH key"
 

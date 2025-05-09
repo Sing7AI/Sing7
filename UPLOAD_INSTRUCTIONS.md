@@ -4,7 +4,7 @@ Follow these steps to upload the Sing7 project to GitHub:
 
 ## 1. GitHub Repository Setup
 
-1. Login to GitHub with email: nxkaaowpif11@hotmail.com
+1. Login to GitHub with email: your-github-email@example.com
 2. Create the Sing7AI organization/user if it doesn't exist
 3. Create a repository named "Sing7"
 
@@ -13,7 +13,7 @@ Follow these steps to upload the Sing7 project to GitHub:
 1. Add the SSH public key to your GitHub account:
 
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFIgaxKmEopbzCi1bjkDcI3e4DI7hPu2xL7b1uIvXfo nxkaaowpif11@hotmail.com
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFIgaxKmEopbzCi1bjkDcI3e4DI7hPu2xL7b1uIvXfo your-github-email@example.com
 ```
 
    - Go to GitHub -> Settings -> SSH and GPG keys
@@ -59,7 +59,7 @@ The project has been configured with:
 ```
 [user]
     name = Sing7
-    email = nxkaaowpif11@hotmail.com
+    email = your-github-email@example.com
 [alias]
     br = branch
     co = checkout
