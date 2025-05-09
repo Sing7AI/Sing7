@@ -1,4 +1,4 @@
-# Sing7 Project GitHub Setup Guide
+# 🌍 Sing7 Project GitHub Setup Guide
 
 ## Important Note
 **Notice:** All SSH and Git configurations below are specific to the Sing7 project and will not affect your global settings for other projects.
@@ -19,7 +19,8 @@
 1. **Code bundle (with Git history)**: `sing7_complete.bundle` (105KB)
 2. **Complete project archive**: `../Sing7_complete.tar.gz` (96KB)
 
-## Next Steps to Complete
+## Next Steps to Complete 📝
+
 1. Add SSH key to your GitHub account
 2. Create Sing7AI organization and Sing7 repository on GitHub (if not already created)
 3. Push code to GitHub using one of the methods described in the SSH_SETUP_INSTRUCTIONS.md file

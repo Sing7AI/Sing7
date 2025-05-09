@@ -1,6 +1,5 @@
 #!/bin/bash
-
-# Create directory structure for Sing7 project
+# 🗂️ Create project directory structure for Sing7
 
 # Create necessary directories
 mkdir -p public/assets/images

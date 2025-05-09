@@ -1,13 +1,14 @@
+// 🎵 Main App Component for Sing7 Web3 Music Platform
 import React from 'react';
 import type { AppProps } from 'next/app';
 import { ThemeProvider } from 'styled-components';
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle, DefaultTheme } from 'styled-components';
 import Head from 'next/head';
 import theme from '../styles/theme';
 import '../styles/fonts.css';
 import '../styles/globals.css';
 
-const GlobalStyle = createGlobalStyle`
+const GlobalStyle = createGlobalStyle<{theme: DefaultTheme}>`
   * {
     box-sizing: border-box;
     margin: 0;
@@ -37,7 +38,7 @@ const GlobalStyle = createGlobalStyle`
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider theme={theme}>
-      <GlobalStyle />
+      <GlobalStyle theme={theme} />
       <Head>
         <title>Sing7 - Web3 Music Creation Platform</title>
         <meta name="description" content="Create, mint, and share music NFTs with Sing7" />

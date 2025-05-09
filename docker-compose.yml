@@ -1,3 +1,4 @@
+# 🐙 Docker Compose configuration for Sing7 development
 version: '3'
 
 services:

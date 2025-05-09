@@ -1,4 +1,4 @@
-# Sing7 GitHub Setup - Summary
+# 📋 Sing7 GitHub Setup - Summary
 
 ## Steps Completed
 
@@ -23,7 +23,7 @@
 - **GitHub Push Permission**: Direct push to GitHub repository failed due to authentication issues
 - **Solution**: Created bundle file with all commits for manual upload
 
-## Next Steps
+## Next Steps 📝
 
 1. Use the bundle file to upload to GitHub from a computer with access
 2. Add the SSH key to GitHub for future direct push access

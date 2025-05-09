@@ -1,5 +1,6 @@
 {
   "name": "sing7",
+  "description": "🎼 Web3 Music Creation and NFT Platform",
   "version": "0.1.0",
   "private": true,
   "scripts": {

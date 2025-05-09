@@ -1,3 +1,4 @@
+// 📄 Main Layout Component for Sing7 Application
 import React, { ReactNode } from 'react';
 import styled from 'styled-components';
 import Head from 'next/head';

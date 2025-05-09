@@ -1,3 +1,4 @@
+// 🎨 Sing7 Theme Configuration
 import { DefaultTheme } from 'styled-components';
 
 const theme: DefaultTheme = {

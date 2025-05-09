@@ -1,12 +1,12 @@
-# Sing7 GitHub Upload Instructions (Final)
+# 📤 Sing7 GitHub Upload Instructions (Final)
 
 Since direct push to GitHub encountered permission issues, please use the bundle method to upload the codebase to GitHub.
 
-## What is the Bundle File?
+## What is the Bundle File? 📦
 
 The bundle file (`Sing7_updated_bundle.bundle`) contains the entire Git repository, including all commits, branches, and tags. This allows you to transfer the repository without requiring direct SSH access from this machine.
 
-## Upload Steps
+## Upload Steps 📋
 
 ### Method 1: Using the Bundle File
 
@@ -68,4 +68,4 @@ To enable direct push in the future:
 - **Account**: nxkaaowpif11@hotmail.com
 - **Repository**: https://github.com/Sing7AI/Sing7
 - **SSH Key**: ~/.ssh/id_ed25519_sing7ai
-- **SSH Config**: github.com-sing7ai 
+- **SSH Config**: github.com-sing7ai

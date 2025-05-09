@@ -1,8 +1,8 @@
-# Sing7 GitHub Setup
+# 🔗 Sing7 GitHub Setup
 
 This document provides instructions for setting up the Sing7 project with GitHub.
 
-## Quick Setup
+## Quick Setup ⚡
 
 Run the automated setup script:
 

@@ -1,6 +1,6 @@
-# Sing7 GitHub Setup Guide
+# 🚀 Sing7 GitHub Setup Guide
 
-## Step 1: SSH Key Setup
+## Step 1: SSH Key Setup 🔐
 
 Run the following commands to set up the SSH key:
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 /**
+ * 📡 Generate API Specifications for Sing7 Platform
  * This script generates OpenAPI specifications for the Sing7 API endpoints.
  * It scans the pages/api directory and generates a specs file based on JSDoc comments.
  */

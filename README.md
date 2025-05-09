@@ -26,7 +26,7 @@
 - 📱 **Responsive Design**: Works on desktop, tablet, and mobile devices
 - 🌙 **Dark Mode Support**: Easy on the eyes interface for night sessions
 
-## Table of Contents
+## Table of Contents 📚
 
 - [Architecture](#architecture)
 - [Technical Implementation](#technical-implementation)

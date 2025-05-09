@@ -1,4 +1,5 @@
-FROM node:18-alpine AS deps
+# 🐳 Dockerfile for Sing7 Web3 Music Creation Platform
+FROM node:18-alpine AS base
 WORKDIR /app
 
 # Install dependencies based on the preferred package manager
@@ -11,7 +12,7 @@ RUN \
   fi
 
 # Rebuild the source code only when needed
-FROM node:18-alpine AS builder
+FROM base AS builder
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .

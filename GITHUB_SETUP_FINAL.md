@@ -1,4 +1,4 @@
-# Sing7 GitHub Setup and Upload Guide
+# 📦 Sing7 GitHub Setup and Upload Guide
 
 ## Project Information
 - **Project**: Sing7 Web3 Music Creation Platform
@@ -52,7 +52,7 @@ The following Git configuration has been set for this project:
     defaultBranch = main
 ```
 
-## Upload Methods
+## Upload Methods 🚀
 
 ### Method 1: Direct Push (Recommended)
 If SSH is configured correctly:

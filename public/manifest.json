@@ -1,6 +1,7 @@
 {
   "short_name": "Sing7",
-  "name": "Sing7 - Web3 Music Creation Platform",
+  "name": "Sing7 🎵 - Web3 Music Creation Platform",
+  "description": "Create, mint, and share music as NFTs",
   "icons": [
     {
       "src": "favicon.ico",

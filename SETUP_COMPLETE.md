@@ -4,7 +4,7 @@
 
 All necessary setup steps have been completed successfully. The project is ready for upload to GitHub using the bundle method.
 
-## Key Files Generated
+## Key Files Generated 📂
 
 | File | Purpose | Status |
 |------|---------|--------|
@@ -16,7 +16,7 @@ All necessary setup steps have been completed successfully. The project is ready
 | `push_to_github.sh` | GitHub push script | ✅ Created |
 | `GITHUB_UPLOAD_INSTRUCTIONS_FINAL.md` | Upload instructions | ✅ Created |
 
-## Repository Information
+## Repository Information 🔍
 
 - **Account**: nxkaaowpif11@hotmail.com
 - **Repository**: https://github.com/Sing7AI/Sing7
