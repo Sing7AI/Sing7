@@ -10,6 +10,11 @@
   [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
   [![Next.js](https://img.shields.io/badge/Next.js-13.4.7-black)](https://nextjs.org/)
   [![Styled Components](https://img.shields.io/badge/styled--components-6.0.0-pink)](https://styled-components.com/)
+  
+  <p>
+    <a href="https://x.com/Sing_7_" target="_blank">Twitter</a> | 
+    <a href="https://sings7.xyz" target="_blank">Website</a>
+  </p>
 </div>
 
 ## Features
