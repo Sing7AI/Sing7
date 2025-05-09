@@ -17,7 +17,7 @@
   </p>
 </div>
 
-## Features
+## Features ✨
 
 - 🎹 **Virtual Studio**: Create music with digital instruments and audio tools
 - 🧩 **Component Library**: Reusable UI components for consistent design

@@ -15,7 +15,7 @@ This key is stored at: `~/.ssh/id_ed25519_sing7ai_new`
 - **Repository**: https://github.com/Sing7AI/Sing7
 - **SSH Config**: github.com-sing7ai-new
 
-## Method 1: Direct GitHub Upload
+## Method 1: Direct GitHub Upload 🚀
 
 To upload directly to GitHub:
 

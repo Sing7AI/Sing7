@@ -11,7 +11,7 @@ The code has been successfully uploaded to GitHub using SSH authentication with 
 3. **Code Upload**: Successfully pushed all code to the GitHub repository.
 4. **Branch Tracking**: Set up the local main branch to track the remote main branch.
 
-## Repository Details
+## Repository Details 🔍
 
 - **Repository Owner**: Sing7AI organization
 - **Repository Name**: Sing7

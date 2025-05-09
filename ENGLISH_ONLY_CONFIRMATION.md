@@ -10,7 +10,7 @@ The following checks have been performed:
 - All setup scripts are in English
 - No Chinese characters were found in any project files
 
-## GitHub Upload Scripts
+## GitHub Upload Scripts 📂
 
 The project includes several scripts to help with GitHub upload:
 - `github_all_steps.sh` - Complete setup script

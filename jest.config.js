@@ -1,4 +1,4 @@
-// 🧪 Jest configuration for Sing7 V1.03 🧬
+// 🧪 Jest configuration for Sing7 V1.04 🧠
 const nextJest = require('next/jest');
 
 const createJestConfig = nextJest({

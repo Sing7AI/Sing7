@@ -1,4 +1,4 @@
-// ✨ Tailwind configuration for Sing7 V1.03 🌈
+// ✨ Tailwind configuration for Sing7 V1.04 🧩
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

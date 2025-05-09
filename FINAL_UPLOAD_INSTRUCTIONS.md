@@ -12,7 +12,7 @@ This will extract:
 - `FINAL_Sing7_bundle.bundle` - The Git repository bundle
 - `GITHUB_UPLOAD_INSTRUCTIONS_FINAL.md` - Detailed instructions
 
-## Step 2: Upload to GitHub
+## Step 2: Upload to GitHub 📤
 
 ### Option 1: Using the Bundle File
 

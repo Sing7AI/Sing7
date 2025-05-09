@@ -15,7 +15,7 @@ git commit -m "Sing7 V1.01"
 git bundle create Sing7_GitHub_Upload.bundle HEAD --all
 ```
 
-## Step 2: Upload Using Bundle File
+## Step 2: Upload Using Bundle File 📂
 
 On a machine with GitHub access:
 

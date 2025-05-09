@@ -24,7 +24,7 @@ The primary logo consists of the word "Sing" in blue (#57b9f8) and the number "7
 - Do not change the colors unless using one of the approved variations.
 - Minimum size: The logo should never be smaller than 100px in width to ensure legibility.
 
-## Color Palette
+## Color Palette 🎭
 
 ### Primary Colors
 

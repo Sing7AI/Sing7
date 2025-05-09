@@ -23,7 +23,7 @@ This guide explains how to properly display the Sing7 logo in the README.md file
 
 4. The logo should now appear in the README.md automatically.
 
-## Method 2: Use Base64 Encoding
+## Method 2: Use Base64 Encoding 📊
 
 If you prefer to embed the image directly in the markdown file:
 

@@ -9,7 +9,7 @@ All checks have failed
 Sync Repository / build (push) Failing after 3s
 ```
 
-## Root Cause
+## Root Cause ⚠️
 
 The repository contained a GitHub Actions workflow file (`.github/workflows/sync.yml`) that was attempting to commit and push changes automatically. The workflow had several issues:
 

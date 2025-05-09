@@ -18,7 +18,7 @@ This key is stored at: `~/.ssh/sing7ai_exclusive_key`
 5. **Key**: Copy and paste the SSH key shown above
 6. **Click "Add SSH key"**
 
-## Testing the Connection
+## Testing the Connection 🔌
 
 After adding the key to your GitHub account, test the connection:
 

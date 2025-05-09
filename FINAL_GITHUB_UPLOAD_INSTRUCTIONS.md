@@ -4,7 +4,7 @@
 
 We've discovered that all SSH keys on this system are associated with the CtoryAI GitHub account, not the Sing7AI account. Therefore, direct SSH push to the Sing7AI/Sing7 repository won't work from this machine.
 
-## Recommended Method: Bundle Upload
+## Recommended Method: Bundle Upload 💾
 
 We've created a bundle file that contains the complete Git repository, which can be used to upload to GitHub:
 
@@ -13,7 +13,7 @@ We've created a bundle file that contains the complete Git repository, which can
 Sing7_GitHub_Upload_Complete.bundle  # (3.2MB)
 ```
 
-### Upload Steps:
+### Upload Steps 📋:
 
 1. **Copy the bundle file** to a machine where you can authenticate as the nxkaaowpif11@hotmail.com GitHub account
 
@@ -30,7 +30,7 @@ Sing7_GitHub_Upload_Complete.bundle  # (3.2MB)
    git push --all origin
    ```
 
-## Alternative Method: Personal Access Token
+## Alternative Method: Personal Access Token 🔑
 
 If you want to push directly from this machine:
 
@@ -73,10 +73,10 @@ We've completed the following setup:
        defaultBranch = main
    ```
 
-2. **Commit Message**: All commits use "Sing7 V1.01"
+2. **Commit Message**: All commits use "Sing7 V1.04"
 
 3. **All File Paths and Content**: Verified to contain only English, no Chinese characters
 
 ## Verification
 
-After uploading, verify that all files appear correctly on GitHub and that there are no Chinese characters in any files or commit messages. 
+After uploading, verify that all files appear correctly on GitHub and that there are no Chinese characters in any files or commit messages.
